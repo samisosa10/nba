@@ -1,0 +1,55 @@
+* {
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+body {
+  font-size: 15px;
+  margin: 0;
+  padding: 0;
+}
+.header__div {
+  background-color: #1465bb;
+  margin-top: 0;
+  height: 90px;
+}
+.header__div__h1 {
+  color: white;
+  margin: 0;
+  padding: 10px;
+  transform: translateY(-268px);
+  font-size: 40px;
+}
+.header__div__img-logo {
+  width: 60px;
+  height: 90px;
+  text-align: left;
+  transform: translateY(-1.3px);
+  padding-left: 4px;
+}
+input {
+  width: 650px;
+  height: 30px;
+  margin: 5px;
+  border-radius: 12px;
+  border: solid 1px;
+  border-color: #b8babd;
+  padding-left: 10px;
+}
+
+form {
+  margin-top: 15px;
+}
+
+.input-submit {
+  background-color: #1465bb;
+  border-color: #1465bb;
+  border: solid 0px;
+  color: white;
+  font-size: 18px;
+  margin: 5px;
+  height: 32px;
+}
+.header__div__h1-draft {
+  color: white;
+  font-size: 75px;
+  transform: translateX(60px) translateY(-145px);
+}
